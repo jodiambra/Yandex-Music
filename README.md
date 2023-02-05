@@ -1,5 +1,6 @@
 # Yandex-Music
 First data science project, EDA
+![image](https://user-images.githubusercontent.com/115895428/216845223-9748e5cf-4409-47cc-832d-b159a5ee6d8d.png)
 
 ## Skills Demonstrated
     Pandas
