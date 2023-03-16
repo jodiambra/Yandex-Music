@@ -10,3 +10,6 @@ First data science project, EDA
 
 ## Purpose
 The purpose of this project is to compare the music preferences in the cities of Springfield and Shelbyville. We will use data provided by Yandex.music to test hypotheses on user behavior. 
+
+
+https://jodiambra.github.io/Yandex-Music-EDA/
